@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 *.pyo
 venv/Scripts/
+venv/Lib/site-packages/__pycache__/
