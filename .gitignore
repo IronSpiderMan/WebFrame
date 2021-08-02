@@ -2,5 +2,4 @@ __pycache__/
 .idea/
 *.pyc
 *.pyo
-venv/Scripts/
-venv/Lib/site-packages/__pycache__/
+
